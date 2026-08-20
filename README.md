@@ -259,7 +259,7 @@ Business Findings
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](screenshots/Powerbi%20Dashboard.png)
+![Power BI Dashboard]https://github.com/mukamirisper/Retail-sales-data-quality-analysis/blob/a0ce5d055e5682cf17631a4565b973a05afd52c7/screenshots/Excel%20Dashboard.png
 
 ### Excel Dashboard
 
