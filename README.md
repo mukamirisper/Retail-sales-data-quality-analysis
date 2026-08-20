@@ -173,7 +173,7 @@ This provides a starting point for future customer-retention and customer-value 
 
 ### Excel Dashboard
 
-![Power BI Dashboard]https://github.com/mukamirisper/Retail-sales-data-quality-analysis/blob/a0ce5d055e5682cf17631a4565b973a05afd52c7/screenshots/Excel%20Dashboard.png
+![Alt Excel Dashboard](https://github.com/mukamirisper/Retail-sales-data-quality-analysis/blob/a0ce5d055e5682cf17631a4565b973a05afd52c7/screenshots/Excel%20Dashboard.png)
 
 The Excel dashboard provides:
 
