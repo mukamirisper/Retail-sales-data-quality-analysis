@@ -252,3 +252,33 @@ Excel Dashboard
 Power BI Dashboard
      ↓
 Business Findings
+
+---
+
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](screenshots/01-power-bi-dashboard.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](screenshots/02-excel-dashboard.png)
+
+---
+
+## Project Files
+
+| Folder | Contents |
+|---|---|
+| `excel/` | Excel workbook, Power Query workflow, formulas, summaries and dashboard |
+| `sql/` | MySQL data-quality and business-analysis queries |
+| `powerbi/` | Interactive Power BI dashboard |
+| `screenshots/` | Dashboard and analysis previews |
+| `case-study/` | Detailed project case study |
+
+---
+
+## Case Study
+
+[Read the full project case study](case-study/Retail_Sales_Data_Quality_Business_Analysis_Case_Study.pdf)
