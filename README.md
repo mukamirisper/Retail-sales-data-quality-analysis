@@ -259,11 +259,11 @@ Business Findings
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](Powerbi%20Dashboard.png)
+![Power BI Dashboard](screenshots/Powerbi%20Dashboard.png)
 
 ### Excel Dashboard
 
-![Excel Dashboard](Excel%20Dashboard.png)
+![Excel Dashboard](screenshots/Excel%20Dashboard.png)
 
 ---
 
