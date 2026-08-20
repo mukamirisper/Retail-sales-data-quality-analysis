@@ -190,6 +190,8 @@ The Excel dashboard provides:
 
 ### Power BI Dashboard
 
+![Excel Dashboard](screenshots/Excel%20Dashboard.png)
+
 The Power BI dashboard provides interactive reporting for:
 
 - Sales
@@ -256,11 +258,6 @@ Power BI Dashboard
 Business Findings
 
 ---
-
-
-### Excel Dashboard
-
-![Excel Dashboard](screenshots/Excel%20Dashboard.png)
 
 ---
 
