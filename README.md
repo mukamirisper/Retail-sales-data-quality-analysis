@@ -190,7 +190,7 @@ The Excel dashboard provides:
 
 ### Power BI Dashboard
 
-![Excel Dashboard](screenshots/Excel%20Dashboard.png)
+![Excel Dashboard](screenshots/Powerbi%20Dashboard.png)
 
 The Power BI dashboard provides interactive reporting for:
 
